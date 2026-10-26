@@ -19,6 +19,8 @@ Key highlights include:
 - 🎴 **Unit Farm** — farms the best maps on loop to collect unit drops and upgrade materials
 - 🎲 **Summon Optimizer** — tracks pity and auto-summons at the best rate-up windows
 
+### [⬇️ Download Anime Adventures Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
